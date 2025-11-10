@@ -1,4 +1,4 @@
-module github.com/alexvec/go-bip39
+module github.com/rcarback/go-bip39
 
 go 1.14
 
